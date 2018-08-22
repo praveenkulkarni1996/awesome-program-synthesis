@@ -1,10 +1,13 @@
 # Awesome Program Synthesis
 An curated list of papers on program synthesis.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 **Contents**
 
 * [Stoke](#stoke)
 * [Flash Fill](#flash-fill)
+* [Utopia](#utopia)
 * [Contributing](#contributing)
 
 ## STOKE
@@ -25,6 +28,12 @@ An curated list of papers on program synthesis.
 
 TODO 
 
+## Utopia
+[Utopia](http://utopia.cs.utexas.edu/) is a research group at the University of Texas at Austin. An incomplete list of publications follows.
+
+#### Publications
+
+* [__Program Synthesis using Conflict Driven Learning__](http://www.cs.utexas.edu/~isil/pldi18-neo.pdf) – _Yu Feng, Ruben Martins, Osbert Bastani, Isil Dillig_ – __PLDI 2018 (Distinguished Paper Award)__
 
 ## Contributing
 Contributions are welcome, please open a PR or an issue. Processing these will take a while though, since I'll at least take a peek into new submissions. In this early stage, proposals for adding missing categories are also useful. In your submissons, please stick to the established format of existing entries.
