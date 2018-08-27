@@ -26,9 +26,9 @@ An curated list of papers on program synthesis.
 
 #### Publications
 
-* [__Automating String Processing in Spreadsheets Using Input-Output Examples__](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf) - _Sumit Gulwani_ - __POPL 2011__
-
-TODO 
+* __(POPL 2011)__ [__Automating String Processing in Spreadsheets Using Input-Output Examples__](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf) - 
+  _Sumit Gulwani_
+* __(ICLR 2018)__ [__Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples__](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/main-ml2search.pdf) - _Ashwin Kalyan, Abhishek Mohta, Alex Polozov, Dhruv Batra, Prateek Jain, Sumit Gulwani_
 
 ## Utopia
 [Utopia](http://utopia.cs.utexas.edu/) is a research group at the University of Texas at Austin. An incomplete list of publications follows.
