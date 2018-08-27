@@ -26,6 +26,8 @@ An curated list of papers on program synthesis.
 
 #### Publications
 
+* [__Automating String Processing in Spreadsheets Using Input-Output Examples__](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/popl11-synthesis.pdf) - _Sumit Gulwani_ - __POPL 2011__
+
 TODO 
 
 ## Utopia
