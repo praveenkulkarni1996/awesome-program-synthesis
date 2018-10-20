@@ -8,6 +8,7 @@ An curated list of papers on program synthesis.
 * [Stoke](#stoke)
 * [Flash Fill](#flash-fill)
 * [Utopia](#utopia)
+* [Sketch](#sketch)
 * [Contributing](#contributing)
 
 ## STOKE
@@ -36,6 +37,11 @@ An curated list of papers on program synthesis.
 #### Publications
 
 * __(PLDI 2018, Distinguished Paper Award)__ [__Program Synthesis using Conflict Driven Learning__](http://www.cs.utexas.edu/~isil/pldi18-neo.pdf) – _Yu Feng, Ruben Martins, Osbert Bastani, Isil Dillig_
+
+## Sketch
+Group led by [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/). Programming by sketching gives the synthesizer a puzzle that it has to fill in. 
+
+* __(MIT)__ [__Phd Thesis, 2008__](https://people.csail.mit.edu/asolar/papers/thesis.pdf) - _Armando Solar-Lezama_
 
 ## Contributing
 Contributions are welcome, please open a PR or an issue. Processing these will take a while though, since I'll at least take a peek into new submissions. In this early stage, proposals for adding missing categories are also useful. In your submissons, please stick to the established format of existing entries.
