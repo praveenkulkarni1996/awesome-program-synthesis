@@ -11,6 +11,9 @@ An curated list of papers on program synthesis.
 * [Sketch](#sketch)
 * [Contributing](#contributing)
 
+## Survey 
+[__Survey on Program Synthesis__](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) - _Sumit Gulwani, Rishubh Singh, Alex Polozov_
+
 ## STOKE
 [STOKE](http://stoke.stanford.edu) is a stochastic optimizer and program synthesizer from Stanford. 
 
