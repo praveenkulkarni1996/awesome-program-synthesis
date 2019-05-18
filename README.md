@@ -46,5 +46,13 @@ Group led by [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/). Progr
 
 * __(MIT)__ [__Phd Thesis, 2008__](https://people.csail.mit.edu/asolar/papers/thesis.pdf) - _Armando Solar-Lezama_
 
+## Yale-NUS
+
+* __(POPL 2019, Distinguished Paper Award)__ [__Structuring the Synthesis of Heap-Manipulating Programs__](https://ilyasergey.net/papers/suslik-popl19.pdf) - _[Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/) and [Ilya Sergey](https://ilyasergey.net/)_
+
+_
+
+https://ilyasergey.net/
+
 ## Contributing
 Contributions are welcome, please open a PR or an issue. Processing these will take a while though, since I'll at least take a peek into new submissions. In this early stage, proposals for adding missing categories are also useful. In your submissons, please stick to the established format of existing entries.
